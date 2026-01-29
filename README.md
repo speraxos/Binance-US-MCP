@@ -1,7 +1,7 @@
 # Binance.US MCP Server  
 
 A Model Context Protocol (MCP) server for interacting with the Binance.US cryptocurrency exchange API.
-
+ 
 ## Overview
 
 This MCP server provides programmatic access to Binance.US exchange features including:
